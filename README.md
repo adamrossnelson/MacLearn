@@ -17,4 +17,6 @@ The dataset `auto2.dta` is available from Stata. Files collected in the the subf
 
 * [Binary Classification Tutorial with the Keras Deep Learning Library](https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/).
 * [First Neural Network in Python With Keras Step-By-Step
-](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/).
+* [Happiness Prediction Example](https://github.com/kudchikarsk/happiness-prediction/blob/master/LearnHappiness.ipynb).
+* Siraj Raval's [Keras Explained](https://www.youtube.com/watch?v=j_pJmXJwMLA&t=43s).
