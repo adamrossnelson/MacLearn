@@ -12,3 +12,9 @@ The dataset `auto2.dta` is available from Stata. Files collected in the the subf
 * [19 Free Public Data Sets For Your First Data Science Project](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 * [Data.Gov](https://www.data.gov/)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+# Other Resources
+
+* [Binary Classification Tutorial with the Keras Deep Learning Library](https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/).
+* [First Neural Network in Python With Keras Step-By-Step
+](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
