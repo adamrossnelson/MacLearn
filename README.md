@@ -4,11 +4,11 @@ Repo for testing or demonstrating Machine Learning
 
 ## Example using auto2.dta
 
-The dataset `auto2.dta` is available from Stata. Files collected in subfolder [auto2dta](https://github.com/adamrossnelson/MacLearn/auto2dta/) use machine learning with the `auto2.dta`. The goal is to predict if a vehicle is either foriegn or domestic. This example uses a decision tree.
+The dataset `auto2.dta` is available from Stata. Files collected in subfolder [auto2dta](https://github.com/adamrossnelson/MacLearn/tree/master/auto2dta) use machine learning with the `auto2.dta`. The goal is to predict if a vehicle is either foriegn or domestic. This example uses a decision tree.
 
-The files in subfolder [KerasTemplate](https://github.com/adamrossnelson/MacLearn/auto2dta/) illustrate machine learning with `sonar.csv`. The goal is to predict if a sonar signal is detecting either a metal cynlinder or a rock. This example uses a neural network, it is based on guidance at [Machine Learning Mastery](https://machinelearningmastery.com).
+The files in subfolder [KerasTemplate](https://github.com/adamrossnelson/MacLearn/tree/master/KerasTemplate) illustrate machine learning with `sonar.csv`. The goal is to predict if a sonar signal is detecting either a metal cynlinder or a rock. This example uses a neural network, it is based on guidance at [Machine Learning Mastery](https://machinelearningmastery.com).
 
-The files in subfoder [Whimsical](https://github.com/adamrossnelson/MacLearn/whimsical/) are tinkerings that follow from this [Anaconda tutorial](https://know.anaconda.com/rs/387-XNW-688/images/ML.html). Maybe you're a fan of replication science? This might be called replication tutorials.
+The files in subfoder [Whimsical](https://github.com/adamrossnelson/MacLearn/tree/master/whimsical) are tinkerings that follow from this [Anaconda tutorial](https://know.anaconda.com/rs/387-XNW-688/images/ML.html). Maybe you're a fan of replication science? This might be called replication tutorials.
 
 # Example Datasets
 
